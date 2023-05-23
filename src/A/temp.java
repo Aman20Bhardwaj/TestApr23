@@ -20,8 +20,6 @@ public class temp {
 		temp2.m1();
 		System.out.println("change m1 to line update");
 		// temp2.m3();
-//		added line 1
-//		added line 2
 //		added line 4
 //		added line 5
 //		added line 6
