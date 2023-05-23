@@ -19,6 +19,7 @@ public class temp {
 		// System.out.println(temp2.C);
 		temp2.m1();
 		temp2.m2();
+		System.out.println("stash 4");
 		// temp2.m3();
 	}
 }
