@@ -18,7 +18,11 @@ public class temp {
 		System.out.println(temp2.B);
 		// System.out.println(temp2.C);
 		temp2.m1();
-		temp2.m2();
+		System.out.println("change m1 to line update");
 		// temp2.m3();
+//		added line 1
+//		added line 2
+//		added line 3
+
 	}
 }
